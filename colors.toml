@@ -1,0 +1,36 @@
+# mono — grayscale desktop, real colors only where code lives (terminal, neovim).
+# Neutrals and ANSI come from carbonfox; ANSI yellow is a true yellow
+# (carbonfox's own "yellow" slot is teal).
+mode = "dark"
+
+accent = "#dfdfe0"
+hyprland_active_border = "#b6b8bb"
+hyprland_inactive_border = "#353535"
+selection = "#2a2a2a"
+muted = "#7b7c7e"
+
+background = "#161616"
+dark_background = "#0c0c0c"
+darker_background = "#080808"
+lighter_background = "#252525"
+
+foreground = "#f2f4f8"
+dark_foreground = "#535353"
+light_foreground = "#b6b8bb"
+bright_foreground = "#f9fbff"
+
+red = "#ee5396"
+yellow = "#f1c21b"
+orange = "#ff832b"
+green = "#25be6a"
+cyan = "#33b1ff"
+blue = "#78a9ff"
+magenta = "#be95ff"
+brown = "#8a5a2b"
+
+bright_red = "#f16da6"
+bright_yellow = "#fddc69"
+bright_green = "#46c880"
+bright_cyan = "#52bdff"
+bright_blue = "#8cb6ff"
+bright_magenta = "#c8a5ff"
