@@ -6,7 +6,7 @@ the desktop is graphite and gray: window borders, the bar, menus, notifications,
 the terminal and neovim get a real palette, [carbonfox](https://github.com/EdenEast/nightfox.nvim),
 so code, diffs and `ls` still read the way they should.
 
-![neovim in carbonfox on the rings wallpaper](preview.png)
+![neovim and a terminal on the mono desktop](preview.png)
 
 ## install
 
